@@ -11,6 +11,7 @@ int main(){
         int cube = i*i*i;
         sum = sum+cube;
     }
+    
     cout<<sum;
     return 0;
 }
